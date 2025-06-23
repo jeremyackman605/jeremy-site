@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import ThemeToggle from './ThemeToggle'
 
 export default function Layout({ children }) {
   return (
@@ -22,7 +21,6 @@ export default function Layout({ children }) {
             <Link href="/experience" className="text-gray-700 dark:text-gray-200 hover:underline">Experience</Link>
             <Link href="/resume" className="text-gray-700 dark:text-gray-200 hover:underline">Resume</Link>
             <Link href="/contact" className="text-gray-700 dark:text-gray-200 hover:underline">Contact</Link>
-            <ThemeToggle />
           </div>
         </div>
       </nav>

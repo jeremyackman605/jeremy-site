@@ -4,7 +4,7 @@ import ThemeToggle from './ThemeToggle'
 export default function Layout({ children }) {
   return (
     <div>
-      <nav className="bg-gray-100 dark:bg-gray-800 p-4 shadow-md">
+      <nav className="bg-gray-100 dark:bg-gray-800 p-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center space-x-4">
             <div className="w-10 h-10 rounded-full overflow-hidden">

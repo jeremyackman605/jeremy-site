@@ -204,11 +204,11 @@ secondary: {
    background: "rgba(255,255,255,0.04)",
  },
  details: {
-   border: "1px solid rgba(0,0,0,0.14)",
+   border: "1px solid rgba(255,255,255,0.04)",
    borderRadius: 14,
    padding: 12,
    marginBottom: 10,
-   background: "#fff",
+   background: "rgba(255,255,255,0.04)",
  },
  summary: { cursor: "pointer", fontWeight: 800, color: "#f9fafb", },
  footer: { marginTop: 34 },

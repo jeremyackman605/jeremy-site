@@ -211,13 +211,13 @@ secondary: {
    background: "#fff",
  },
  summary: { cursor: "pointer", fontWeight: 800, color: "#f9fafb", },
- summaryHover: { color: "#93c5fd" }, // subtle blue on hover 
  footer: { marginTop: 34 },
  footerCard: {
    border: "1px solid rgba(0,0,0,0.14)",
    borderRadius: 14,
    padding: 18,
    background: "rgba(255,255,255,0.04)",
+ },
  footerButtons: { display: "flex", gap: 12, flexWrap: "wrap", marginTop: 12, },
  tinyNote: { marginTop: 14, fontSize: 12.5, opacity: 0.75, },
 };

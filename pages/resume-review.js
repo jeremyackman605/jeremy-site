@@ -181,8 +181,12 @@ page: {
    textDecoration: "none",
    textAlign: "center",
  },
- primary: { background: "#111", color: "#fff" },
- secondary: { background: "transparent", color: "#111", border: "1px solid rgba(0,0,0,0.22)" },
+primary: { background: "#f9fafb", color: "#0b1220" }, // light button on dark bg
+secondary: {
+ background: "transparent",
+ color: "#e5e7eb",
+ border: "1px solid rgba(255,255,255,0.22)",
+},
  microcopy: { margin: 0, fontSize: 13, opacity: 0.75 },
  altLink: { color: "#111", opacity: 0.9, textDecoration: "underline", fontSize: 14 },
  section: { marginTop: 28 },

@@ -133,15 +133,15 @@ export default function ResumeReviewPage() {
  );
 }
 const styles = {
- page: {
-   maxWidth: 980,
-   margin: "0 auto",
-   padding: "44px 20px 70px",
-   fontFamily:
-     'ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"',
-   lineHeight: 1.55,
-   color: "#111",
- },
+page: {
+ maxWidth: 980,
+ margin: "0 auto",
+ padding: "44px 20px 70px",
+ fontFamily:
+   'ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"',
+ lineHeight: 1.55,
+ color: "#e5e7eb", // light text
+},
  header: { marginBottom: 26 },
  topRow: { display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12, flexWrap: "wrap" },
  backLink: { color: "#111", opacity: 0.85, textDecoration: "underline" },

@@ -210,7 +210,8 @@ secondary: {
    marginBottom: 10,
    background: "#fff",
  },
- summary: { cursor: "pointer", fontWeight: 800 },
+ summary: { cursor: "pointer", fontWeight: 800, color: "
+  #f9fafb", },
  footer: { marginTop: 34 },
  footerCard: {
    border: "1px solid rgba(0,0,0,0.14)",

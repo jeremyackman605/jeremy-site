@@ -218,7 +218,6 @@ secondary: {
    borderRadius: 14,
    padding: 18,
    background: "rgba(255,255,255,0.04)",
- },
  footerButtons: { display: "flex", gap: 12, flexWrap: "wrap", marginTop: 12, },
  tinyNote: { marginTop: 14, fontSize: 12.5, opacity: 0.75, },
 };

@@ -144,7 +144,8 @@ page: {
 },
  header: { marginBottom: 26 },
  topRow: { display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12, flexWrap: "wrap" },
- backLink: { color: "#111", opacity: 0.85, textDecoration: "underline" },
+ backLink: { color: "#93c5fd", textDecoration: "underline" },
+ altLink: { color: "#93c5fd", textDecoration: "underline", fontSize: 14 },
  badge: {
    fontSize: 12,
    fontWeight: 800,
